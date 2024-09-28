@@ -1,9 +1,9 @@
 one
-two
+twelve
 three
 four
 five
-six
+sixteen
 seven
 eight
 nine
