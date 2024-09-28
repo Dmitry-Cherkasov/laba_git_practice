@@ -1,8 +1,8 @@
 one
 twelve
-three
+thirteen
 fourteen
-five
+fifteen
 sixteen
 seventeen
 eight
