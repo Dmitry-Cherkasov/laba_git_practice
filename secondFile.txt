@@ -1,10 +1,10 @@
 ten
-nine
+nineteen
 eight
 seven
 six
 five
 four
-three
+thirteen
 two
 one
